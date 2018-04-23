@@ -1,0 +1,17 @@
+ID	Order Date	Product	Category	Unit Price	Qty	Discount	Amount
+1	6/20/2015	Alice Mutton	Meat/Poultry	 39.00	30	TRUE	" 1,053.00"
+2	6/18/2015	Aniseed Syrup	Condiments	 10.00	14	FALSE	 140.00
+3	6/18/2015	Boston Crab Meat	Seafood	 18.40	22	TRUE	 364.32
+4	6/15/2015	Camembert Pierrot	Dairy Products	 34.00	10	FALSE	 340.00
+5	6/14/2015	Filo Mix	Grains/Cereals	 7.00	48	TRUE	 302.40
+6	6/12/2015	Fløtemysost	Dairy Products	 21.50	24	FALSE	 516.00
+7	6/11/2015	Genen Shouyu	Condiments	 15.50	58	FALSE	 899.00
+8	6/8/2015	Ikura	Seafood	 31.00	15	TRUE	 418.50
+9	6/7/2015	Ipoh Coffee	Beverages	 46.00	17	FALSE	 782.00
+10	6/5/2015	Jack's New England Clam Chowder	Seafood	 9.65	16	FALSE	 154.40
+11	6/1/2015	Lakkalikööri	Beverages	 18.00	12	FALSE	 216.00
+12	5/15/2015	Louisiana Fiery Hot Pepper Sauce	Condiments	 21.50	13	TRUE	 251.55
+13	5/13/2015	Scottish Longbreads	Confections	 12.50	22	FALSE	 275.00
+14	5/11/2015	Singaporean Hokkien Fried Mee	Grains/Cereals	 14.00	44	FALSE	 616.00
+15	5/10/2015	Sir Rodney's Marmalade	Confections	 81.00	65	TRUE	" 4,738.50"
+16	5/7/2015	Wimmers gute Semmelknödel	Grains/Cereals	 33.25	33	FALSE	" 1,097.25"
