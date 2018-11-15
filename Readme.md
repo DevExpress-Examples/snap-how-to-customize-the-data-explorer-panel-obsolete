@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomDataExplorer/Form1.cs) (VB: [Form1.vb](./VB/CustomDataExplorer/Form1.vb))
+* [MyColumnImageProvider.cs](./CS/CustomDataExplorer/MyColumnImageProvider.cs) (VB: [MyColumnImageProvider.vb](./VB/CustomDataExplorer/MyColumnImageProvider.vb))
+* [MyDataSourceCollectorService.cs](./CS/CustomDataExplorer/MyDataSourceCollectorService.cs) (VB: [MyDataSourceCollectorService.vb](./VB/CustomDataExplorer/MyDataSourceCollectorService.vb))
+* [MyMenuCommandHandler.cs](./CS/CustomDataExplorer/MyMenuCommandHandler.cs) (VB: [MyMenuCommandHandler.vb](./VB/CustomDataExplorer/MyMenuCommandHandler.vb))
+<!-- default file list end -->
 # Snap - How to customize the Data Explorer panel
 
 
