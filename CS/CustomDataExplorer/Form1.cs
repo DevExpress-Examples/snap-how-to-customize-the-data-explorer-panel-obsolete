@@ -29,6 +29,7 @@ namespace CustomDataExplorer {
             MyDataSourceCollectorService newService = new MyDataSourceCollectorService(oldService);
             snapControl1.ReplaceService<IDataSourceCollectorService>(newService);
             SnapFieldListTreeView view = fieldListDockPanel1.Controls[0].Controls[0] as SnapFieldListTreeView;
+            view.AllowSvgImages = false;
             view.UpdateDataSource(snapControl1, newService.GetDataSources());
 
             #region #FieldListDockPanel_Options
