@@ -12,6 +12,9 @@
 * [MyMenuCommandHandler.cs](./CS/CustomDataExplorer/MyMenuCommandHandler.cs) (VB: [MyMenuCommandHandler.vb](./VB/CustomDataExplorer/MyMenuCommandHandler.vb))
 <!-- default file list end -->
 # Snap - How to customize the Data Explorer panel
+> **Note**
+>
+> As you may already know, the [WinForms Snap control](https://docs.devexpress.com/WindowsForms/11373/controls-and-libraries/snap) and [Snap Report API](https://docs.devexpress.com/OfficeFileAPI/15188/snap-report-api) are now in maintenance support mode. No new features or capabilities are incorporated into these products. We recommend that you use [DevExpress Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) tool to generate, edit, print, and export your business reports/documents.
 
 This example demonstrates how to provide custom images to the [Field List](https://docs.devexpress.com/WindowsForms/14796/controls-and-libraries/snap/graphical-user-interface/snap-application-elements/data-explorer) items.
 
